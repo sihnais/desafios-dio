@@ -1,3 +1,2 @@
-console.log("ola")
-
-let nome = "danis"
+let idade = 7
+console.log ("minha idade é " + idade)
